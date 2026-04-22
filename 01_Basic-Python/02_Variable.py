@@ -1,2 +1,0 @@
-a = "yasir"
-print(a)
